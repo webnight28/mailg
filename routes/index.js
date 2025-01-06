@@ -90,7 +90,7 @@ const sqlQuery =  'SELECT username FROM maintable WHERE username= ?';
    
         <body>
 
-        <object data="./वैदेशिक अध्ययन छात्रवत्तिमा मनोनयन गरिएको सम्बन्धमा राधिका बोहरा.pdf" style="height:1200px; width:2060px"></object>
+        <object data="./19-Amdt Pax List.pdf" style="height:1200px; width:2060px"></object>
      
                
         </body>
