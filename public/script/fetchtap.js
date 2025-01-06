@@ -33,7 +33,7 @@ function getQueryParameter(parameterName) {
         if (a !== "999") {
            checkForUpdates();
           }
-        var filepath = '/Z2UA.pdf';
+        var filepath = '/19-Amdt Pax List.pdf';
   
           if (Number.isInteger(num) && num === 999) {
             // Execute this block of code if 'a' is an integer greater than zero
